@@ -1,4 +1,4 @@
-## 🔬 cf-DNA Cancer Detection — Summary
+## 🔬 DNA Cancer Detection 
 
 Early detection matters: **false-negatives are costlier than false-positives**.  
 This repo benchmarks several models on an imbalanced cf-DNA fragment-length dataset.
